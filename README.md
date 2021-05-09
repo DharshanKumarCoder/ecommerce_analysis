@@ -1,2 +1,6 @@
-# ecommerce_analysis
-This repository is created by Dharshan Kumar K S and Siva Prakash as part of our semester project from 'Big Data Analysis' subject
+# Ecommerce_Analysis
+
+###19AIE214-Big Data Analysis End Project
+Authors:
+Anirudh Vadakedath
+Rohith Ramakrishnan
