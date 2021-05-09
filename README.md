@@ -86,7 +86,8 @@ Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 
 #### Visualization:
 
-Python Plots
-
+Python Plots<br>
+<b>Example Plot:</b>
+![plot](./visualization/3_Monthly_Trend_Forecasting.png)
 
 
