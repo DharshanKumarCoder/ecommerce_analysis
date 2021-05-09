@@ -1,7 +1,7 @@
 # Ecommerce Sales Data Analysis
 
 ### 19AIE214-Big Data Analysis Project
-Authors: <br>
+<u>Authors:</u> <br>
 Dharshan Kumar K S <br>
 Siva Prakash
 <hr style=\"border:0.5px solid gray\"> </hr>
@@ -15,7 +15,7 @@ Dataset link    : https://amritavishwavidyapeetham-my.sharepoint.com/:x:/g/perso
 Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 <hr style=\"border:0.5px solid gray\"> </hr>
 
-### Data Description
+## Data Description
 | S.No |	Name |	Description |
 |-------|------|--------------|
 |1  |order_id	|unique id for each order (32 fixed-size number)
@@ -41,7 +41,7 @@ Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 |21	|payment_installments	|no. of installments taken by customer to pay bill, 0-24
 <hr style=\"border:0.5px solid gray\"> </hr>
 
-### Analysis Performed using Spark
+## Analysis Performed using Spark
 
 1. <b>Customer Segmentation</b><br>Categorizing customers based on their spendings<br>
    [Bar-graph]
@@ -87,7 +87,13 @@ Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 #### Visualization:
 
 Python Plots<br>
-<b>Example Plot:</b>
-![plot](./visualization/3_Monthly_Trend_Forecasting.png)
+Excel Plots
+<hr style=\"border:0.5px solid gray\"> </hr>
+
+## Example Plot
+<br>
+<p align="left">
+  <img src="./visualization/3_Monthly_Trend_Forecasting.png" width="500" alt="example_Monthly_Trend_Forecasting_plot">
+</p>
 
 
