@@ -1,4 +1,4 @@
-# Ecommerce_Analysis
+# Ecommerce Sales Data Analysis
 
 ### 19AIE214-Big Data Analysis Project
 Authors: <br>
