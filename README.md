@@ -8,8 +8,8 @@ Siva Prakash
 
 ## Data
 Data consists of Ecommerce data from 04-09-2016 to 03-09-2018, which is about 2 years of data <br>
-Dataset rows    : 1,16,581
-Dataset columns : 21
-Dataset size    : 27.4 MB
+Dataset rows    : 1,16,581 <br>
+Dataset columns : 21 <br>
+Dataset size    : 27.4 MB <br>
 
 
