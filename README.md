@@ -42,55 +42,48 @@ Dataset link    : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 
 ### Analysis Performed using Spark
 
-1. Customer Segmentation (Categorizing customers based on their spendings)
+1. <b>Customer Segmentation</b><br>Categorizing customers based on their spendings<br>
    [Bar-graph]
 
-2. Monthly Trend Forecasting (Visualising the monthly trend of sales)
+2. <b>Monthly Trend Forecasting</b><br>Visualising the monthly trend of sales<br>
    [Bar-graph]
 
-3. Which hour has more no. of sales? (avg quantity & price for each hour)
+3. <b>Hourly Sales Analysis</b><br>Which hour has more no. of sales?<br>
    [Timeseries-Plot]
 
-4. Do average (instead of sum) for monthly trend analysis
+4. <b>Product Based Analysis</b><br>
+   Which category product has sold more?<br>
+   Which category product has more rating?<br>
+   Which product has sold more?<br>
+   Top 10 highest & least product rating?<br>
+   Order Count for each rating<br>
    [Bar-graph]
 
-5. Which category product has sold more? 
-   & Which category product has more rating (Category wise avg price,rating & Product wise avg price,rating)
-   and
-   Which product has sold more? 
-   & Top 10 highest & least product rating?
-   and
-   Order Count for each rating
-   [Bar-graph]
-
-6. What are the most commonly used sp types? (avg price for each sp type)
-   &
-   Count of Orders With each No. of Payment Installments
+5. <b>Payment Preference</b><br>
+   What are the most commonly used payment types?<br>
+   Count of Orders With each No. of Payment Installments<br>
    [Pie-Chart]
 
-7. Where do most customers come from? (State wise & city wise avg sales) 
+6. <b>Potential Customer's Location</b><br>
+   Where do most customers come from?<br>
    [Pie-chart]
 
-8. Which seller sold more? & Which seller got more rating? (avg price & rating for each seller)
+7. <b>Seller Rating</b><br>
+   Which seller sold more?<br>
+   Which seller got more rating?<br>
    [Bar-graph]
 
-
-##### Logistics Based:
-
-9. Which city buys heavy weight products and low weight products? (City wise avg weight)
-   [Pie-chart]
-
-10. How much products sold within seller state? (if (seller state == customer state) then count++)
-   & How much products sold outside his state?
+8. <b>Logistics based Optimization Insights</b><br>
+   Which city buys heavy weight products and low weight products?<br>
+   [Pie-chart]<br>
+   How much products sold within seller state?<br>
    [Bar-graph]
 
-Machine Learning Model:
------------------------
+#### Machine Learning Model:
 
-11. Predicting future sales (ML - Linear regression)
+9. Predicting future sales (ML - Linear regression)
 
-Visualization:
---------------
+#### Visualization:
 
 Python Plots
 
