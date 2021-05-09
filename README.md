@@ -15,37 +15,29 @@ Dataset link    : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 <hr style=\"border:0.5px solid gray\"> </hr>
 
 ### Data Description
-| Sr.No |	Name |	Description |
+| S.No |	Name |	Description |
 |-------|------|--------------|
-|1  | Year	|1987-2008
-|2	|Month	|1-12
-|3	|DayofMonth	|1-31
-|4	|DayOfWeek	|1 (Monday) - 7 (Sunday)
-|5	|DepTime	|actual departure time (local, hhmm)
-|6	|CRSDepTime	|scheduled departure time (local, hhmm)
-|7	|ArrTime	|actual arrival time (local, hhmm)
-|8	|CRSArrTime	|scheduled arrival time (local, hhmm)
-|9	|UniqueCarrier	|unique carrier code
-|10	|FlightNum	|flight number
-|11	|TailNum	|plane tail number
-|12	|ActualElapsedTime	|in minutes
-|13	|CRSElapsedTime	|in minutes
-|14	|AirTime	|in minutes
-|15	|ArrDelay	|arrival delay, in minutes
-|16	|DepDelay	|departure delay, in minutes
-|17	|Origin	|origin IATA airport code
-|18	|Dest	|destination IATA airport code
-|19	|Distance	|in miles
-|20	|TaxiIn	|taxi in time, in minutes
-|21	|TaxiOut	|taxi out time in minutes
-|22	|Cancelled|	was the flight cancelled?
-|23	|CancellationCode	|reason for cancellation (A = carrier, B = weather, C = NAS, D = security)
-|24	|Diverted	|1 = yes, 0 = no
-|25	|CarrierDelay	|in minutes
-|26	|WeatherDelay	|in minutes
-|27	|NASDelay	|in minutes
-|28	|SecurityDelay	|in minutes
-|29	|LateAircraftDelay	|in minutes
+|1  |order_id	|unique id for each order (32 fixed-size number)
+|2	|customer_id	|unique id for each customer (32 fixed-size number)
+|3	|quantity	|1-21
+|4	|price_MRP	|cost price
+|5	|payment	|selling price
+|6	|timestamp	|order purchase time (local, day-month-year hour:min:sec AM/PM)
+|7	|rating	|1-5
+|8	|product_category	|scheduled arrival time (local, hhmm)
+|9	|product_id	|unique id for each product (32 fixed-size number)
+|10	|payment_type	|Type of payment - credit card/debit card/boleto/voucher
+|11	|order_status	|delivered/shipped/invoiced
+|12	|product_weight_g	|weight of product (in grams)
+|13	|product_length_cm	|length of product (in centimeter)
+|14	|product_height_cm	|height of product (in centimeter)
+|15	|product_width_cm	|width of product (in centimeter)
+|16	|customer_city	|city where order is placed
+|17	|customer_state	|state where order is placed
+|18	|seller_id |unique id for each seller (32 fixed-size number)
+|19	|seller_city	|city where order is picked up
+|20	|seller_state	|state where order is picked up
+|21	|payment_installments	|no. of installments taken by customer to pay bill
 <hr style=\"border:0.5px solid gray\"> </hr>
 
 
