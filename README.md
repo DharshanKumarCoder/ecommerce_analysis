@@ -75,8 +75,7 @@ Dataset link    : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
    [Bar-graph]
 
 
-Logistics Based:
-----------------
+##### Logistics Based:
 
 9. Which city buys heavy weight products and low weight products? (City wise avg weight)
    [Pie-chart]
