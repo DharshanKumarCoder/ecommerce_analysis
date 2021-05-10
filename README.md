@@ -87,6 +87,7 @@ Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 
 #### Visualization:
 
+Total no. of Graphs & Plots: 19<br>
 Python Plots<br>
 Excel Plots
 <hr style=\"border:0.5px solid gray\"> </hr>
