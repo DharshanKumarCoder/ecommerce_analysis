@@ -82,7 +82,8 @@ Original Dataset link : https://www.kaggle.com/olistbr/brazilian-ecommerce <br>
 
 #### Machine Learning Model:
 
-9. Predicting future sales (ML - Linear regression)
+9. <b>Predicting future sales</b><br>
+   ML - Linear regression
 
 #### Visualization:
 
