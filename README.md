@@ -8,7 +8,7 @@ Siva Prakash
 
 ## Data
 Data consists of Ecommerce data from 04-09-2016 to 03-09-2018, which is about 2 years of data. The dataset we have used is a combination of 9 sub-datasets which originally is 120.3 MB sized dataset. But we have pre-processed and removed many unwanted feature columns and used the modified dataset for our project analysis.<br>
-Dataset rows    : 1,16,581 <br>
+Dataset rows    : 1,16,573 <br>
 Dataset columns : 21 <br>
 Dataset size    : 27.4 MB <br>
 Dataset link    : https://amritavishwavidyapeetham-my.sharepoint.com/:x:/g/personal/cb_en_u4aie19024_cb_students_amrita_edu/EXutaLENebZGmRHiBsClRXMBaE4T7Cz7SHNdObgyzI8oGg?e=IY32cT <br>
